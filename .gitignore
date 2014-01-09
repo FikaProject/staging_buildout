@@ -9,7 +9,6 @@
 .pydevproject
 *.pyc
 *.egg-info
-Data.fs*
 .salt.txt
 bin
 include
